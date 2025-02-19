@@ -1,12 +1,12 @@
 {
-    "name": "agsachdev/groovy-trans",
+    "name": "ashokgroovy2025/groovy-trans",
     "description": "Online Translate",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "translate", "language", "module"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/agsachdev/groovy-trans/issues?state=open",
-		"source": "https://github.com/agsachdev/groovy-trans"
+        "issues": "https://github.com/ashokgroovy2025/groovy-trans/issues?state=open",
+		"source": "https://github.com/ashokgroovy2025/groovy-trans"
 	},
     "authors": [
         {
